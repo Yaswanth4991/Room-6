@@ -1,0 +1,1 @@
+PRINT("ROOM 6")
